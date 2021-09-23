@@ -3,6 +3,4 @@ hello my first command
 3rd statement
 4th line
 5th line
-last Line 
-
-Done by INDIAN
+last Line
